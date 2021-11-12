@@ -1,0 +1,88 @@
+.background,
+.sections {
+  background-color: #d4e9e2;
+}
+.hero-section {
+  background-color: #1e3932;
+}
+.hero-section3 {
+  background-color: #ebdbc8;
+}
+
+.background p a:hover {
+  text-decoration: none;
+}
+.background p {
+  color: #1e3932;
+  letter-spacing: 1px;
+}
+.signin{
+ background-color: rgb(247, 247, 247);
+
+}
+section h2,
+.stars {
+  font-size: 25px;
+  color: #1e3932;
+  font-weight: 600;
+  line-height: 1.6;
+  text-align: center;
+}
+.star {
+  font-size: 25px;
+  color: white;
+  font-weight: 600;
+  line-height: 1.6;
+  text-align: center;
+}
+.links {
+  background-color: #1e3932;
+}
+
+section p,
+.star-p {
+  font-size: 19px;
+  color: #1e3932;
+  font-weight: 600;
+  line-height: 1.7;
+  padding: 10px 25px;
+  margin-top: 5px;
+  letter-spacing: 1px;
+}
+.section-link {
+  color: #1e3932;
+}
+.section-link:hover {
+  background: rgba(30, 57, 50, 0.1);
+}
+
+.nav-links {
+  display: block;
+  font-size: 14px;
+  font-weight: 700;
+  font-size: 12px;
+  letter-spacing: 1.4px;
+}
+.nav-links:hover {
+  color: #008248;
+}
+.input:hover{
+  border-bottom-width:2px;
+}
+.signup-Links{
+  color: #00653e;
+  font-weight: 600;
+  font-size:12px;
+  text-decoration: underline;
+
+}
+.signup-Links:hover{
+ 
+  text-decoration: none;
+ 
+}
+
+.signup-Button{
+  background-color: #00a862;;;
+}
+
